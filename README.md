@@ -133,7 +133,7 @@ the loaded model, and interprets the results. The prediction, along with the upl
 then displayed on the result page. Users can upload an image of a logo, and the application
 promptly determines whether it's genuine or counterfeit.
 
-  **Sample Code**
+**Sample Code**
 from tensorflow.compat.v1 import ConfigProto
 from tensorflow.compat.v1 import InteractiveSession
 config = ConfigProto()
